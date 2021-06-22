@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - KOCHI  || Dated :22 Jun 2021 Time: 12:28:31 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:KOCHI
+			Country		 	:IN
+			Longitude	 	:76.2602
+			Latitude	 	:9.9399
+			Current Date and Time	:22 Jun 2021 Time: 12:28:31 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :26.99 deg C
+			Feels Like		 :29.53 deg C
+			Maximum Temperature	 :26.99 deg C
+			Minimum Temperature	 :26.99 deg C
+			Current weather desc	 :OVERCAST CLOUDS
+			Current weather		 :CLOUDS
+			Current Humidity	 :78%
+			Current Preasure	 :30.01 Hg
+			Current wind speed	 :78kmph
+           ............................. End of Report.. ...........................
+
+
+ 																	Code By :SREEJESH R |ShapeAI Project  

@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - TEXAS  || Dated :22 Jun 2021 Time: 12:28:43 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:TEXAS
+			Country		 	:US
+			Longitude	 	:-99.2506
+			Latitude	 	:31.2504
+			Current Date and Time	:22 Jun 2021 Time: 12:28:43 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :21.25 deg C
+			Feels Like		 :21.60 deg C
+			Maximum Temperature	 :22.03 deg C
+			Minimum Temperature	 :19.17 deg C
+			Current weather desc	 :OVERCAST CLOUDS
+			Current weather		 :CLOUDS
+			Current Humidity	 :83%
+			Current Preasure	 :29.23 Hg
+			Current wind speed	 :83kmph
+           ............................. End of Report.. ...........................
+
+
+ 																	Code By :SREEJESH R |ShapeAI Project  

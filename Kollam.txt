@@ -1,0 +1,25 @@
+===============================================================================================================
+	Weather Report Using Python | Report of - KOLLAM  || Dated :22 Jun 2021 Time: 12:55:01 PM
+--------------------------------------------------------------------------------------------------------------
+           .............................General Informations ...........................
+
+			Town or Place		:KOLLAM
+			Country		 	:IN
+			Longitude	 	:76.6
+			Latitude	 	:8.8833
+			Current Date and Time	:22 Jun 2021 Time: 12:55:01 PM
+           .............................Weather Informations ...........................
+
+			Current Temperature is	 :28.93 deg C
+			Feels Like		 :33.72 deg C
+			Maximum Temperature	 :28.93 deg C
+			Minimum Temperature	 :28.93 deg C
+			Current weather desc	 :BROKEN CLOUDS
+			Current weather		 :CLOUDS
+			Current Humidity	 :76%
+			Current Preasure	 :30.21 Hg
+			Current wind speed	 :76kmph
+           ............................. End of Report.. ...........................
+
+
+ 																	Code By :SREEJESH R |ShapeAI Project  
